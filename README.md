@@ -1,7 +1,7 @@
 # DSA_Practice_Repo
 Repository for my practice code on DSA (Python) and various other resources
 
-You can use the Data Structures folder to understand how I have implemented various Data Structures in Python. I have tried my best to keep the implementation as dynamic and versatile as possible.
+You can use the Data Structures folder to understand how I have implemented various Data Structures in Python. I have tried my best to keep the implementation as dynamic and versatile as possible. The codes use OOP Concepts and each element/node/vertex of a data sructure is a class object.
 
 Python is my main programming language, and this repo contains my code on various beginner as well as advanced Data Structures:
 1. Arrays
