@@ -7,6 +7,7 @@ Python is my main programming language, and this repo contains my code on variou
 1. Arrays
 2. Strings
 3. Graphs
+4. Binary Tree
 
 Many basic and advanced algorithms have been implemented on these Data Structures.
 
