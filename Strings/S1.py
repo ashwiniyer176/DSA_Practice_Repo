@@ -1,5 +1,7 @@
 import string
+
 text = "Is this the real life, is this just fantasy?"
-mid = len(text)//2
-text = string.trip(text)
-print(text)
+reversed_text = ""
+for i in range(len(text) - 1, -1, -1):
+    reversed_text += text[i]
+print(reversed_text)
